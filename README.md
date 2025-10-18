@@ -1,16 +1,13 @@
 # hello world, it's cam :)
-
-## > education:
-- 2023-2026 | HS: Center of Technical and Higher Education (CETYS) @ Mexicali
+- High School Class of 2026 @ Center of Technical and Higher Education (CETYS) Mexicali
+- **languages:** spanish (native) | english | french
+- **interested in:** game and web development, robotics, electronics, optics and audio engineering
 
 ## > extracurriculars:
-- programming and electrical team member at FRC team #4584 Sentinel Fox Engineering
-- lead programmer of team Wired Wizards for the WRO Future Engineers 2025 season
-- mentor at the STEAM for Kids courses at CETYS
-  
-## awards:
-- 2nd place 2025 NASA space apps local winner
-- medalist at the Mexican Informatics Olympiad (OMI) State Level
-- 
+- programming and electrical team member @ Sentinel Fox Engineering #4584 
+- lead programmer of team Wired Wizards @ 2025 WRO Future Engineers
+- mentor for the STEAM Courses @ CETYS
 
-## about me :)
+## awards:
+- 2nd place at the Mexicali local event @ 2025 NASA Space Apps Challenge w/ team Lore Agricolovers
+- state medalist at the Mexican Informatics Olympiad (OMI)
