@@ -11,3 +11,6 @@
 ## > awards:
 - 2nd place at the Mexicali local event @ 2025 NASA Space Apps Challenge w/ team Lore Agricolovers
 - state medalist at the Mexican Informatics Olympiad (OMI)
+
+## > currently working on:
+- game demo for the CETYS HS game jam, .net development
