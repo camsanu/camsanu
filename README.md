@@ -13,4 +13,4 @@
 - state medalist at the Mexican Informatics Olympiad (OMI)
 
 ## > currently working on:
-- game demo for the CETYS HS game jam, .net development
+- not failing the semester :(
