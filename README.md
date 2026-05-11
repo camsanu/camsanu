@@ -13,5 +13,4 @@
 - bronze medalist at the Mexican Informatics Olympiad Baja California (OMIBC)
 
 ## > currently working on:
-- REVIVE @ Technovation Girls w/ Lore Lovers
 - not failing the semester :(
